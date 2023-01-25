@@ -1,44 +1,26 @@
-# default
+# AIRGUN-TOOLS
 
-## Project setup
+**Web app: <https://airgun-tools.vercel.app>**
+
+Basic tools helpful with amateur airgunning:
+
+- Muzzle energy calculator and units converter
+- Projectile velocity calculator and units converter
+- Pellet weight units converter
+- Shooting distance units converter
+- Barrel length units converter
+
+---
+
+## Local development
 
 ```
-# yarn
-yarn
-
-# npm
+## Project setup
 npm install
 
-# pnpm
-pnpm install
-```
-
-### Compiles and hot-reloads for development
-
-```
-# yarn
-yarn dev
-
-# npm
+## Compilation and hot-reloads for development
 npm run dev
 
-# pnpm
-pnpm dev
-```
-
-### Compiles and minifies for production
-
-```
-# yarn
-yarn build
-
-# npm
+## Compilation and minification for production
 npm run build
-
-# pnpm
-pnpm build
 ```
-
-### Customize configuration
-
-See [Configuration Reference](https://vitejs.dev/config/).
