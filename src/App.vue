@@ -2,7 +2,7 @@
   <v-app>
     <!-- start main toolbar -->
     <v-app-bar color="red-darken-4">
-      <v-container class="fill-height d-flex align-center">
+      <v-container>
         <!-- <v-toolbar-title>Airgun Tools</v-toolbar-title> -->
 
         <v-tabs show-arrows slider-color="yellow" v-model="menuModel">
