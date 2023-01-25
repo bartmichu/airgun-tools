@@ -23,6 +23,14 @@
       <LengthCalculator v-show="menuModel.includes('length')" />
       <WeightCalculator v-show="menuModel.includes('weight')" />
     </v-container>
+
+    <v-footer class="text-center d-flex flex-column">
+      <div>
+        <v-btn size="small" color="black" variant="outlined" icon="mdi-github"
+          href="https://github.com/bartmichu/airgun-tools" target="_blank"></v-btn>
+      </div>
+      <div>Improve me on GitHub!</div>
+    </v-footer>
   </v-app>
 </template>
 
