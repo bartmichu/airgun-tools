@@ -2,13 +2,13 @@
 
 **Web app: <https://airgun-tools.vercel.app>**
 
-Basic tools helpful with amateur airgunning:
+Essential tools for amateur airgunning:
 
-- Muzzle energy calculator and units converter
-- Projectile velocity calculator and units converter
-- Pellet weight units converter
-- Shooting distance units converter
-- Barrel length units converter
+- Muzzle energy calculator and unit converter
+- Projectile velocity calculator and unit converter
+- Pellet weight unit converter
+- Shooting distance unit converter
+- Barrel length unit converter
 
 ---
 
